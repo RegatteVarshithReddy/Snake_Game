@@ -1,4 +1,4 @@
-# The Classic Snake Game (or should I call it 'The Python' hahaha)🐍
+# The Classic Snake Game 🐍
  This is a classic snake game made by using **pygame** module of python, implemented using python **data structures**.
  
  ## Modules Used🧩
